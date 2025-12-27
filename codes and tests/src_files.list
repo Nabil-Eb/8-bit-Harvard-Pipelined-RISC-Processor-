@@ -1,0 +1,16 @@
+ALU.v
+CCR.v
+control_unit.v
+DATA.v
+EXMEM.v
+FARWARD.v
+HAZARD.v
+IDEX.v
+IFID.v
+instruction_mem.v
+MEMWB.v
+pc.v
+REG.v
+sp.v
+processor.v
+processor_tb.v

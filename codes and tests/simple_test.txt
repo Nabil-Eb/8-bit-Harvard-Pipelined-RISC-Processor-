@@ -1,0 +1,6 @@
+        uut.imem_inst.memory[0] = 8'hC0;  // LDM R0, 5
+        uut.imem_inst.memory[1] = 8'h05;
+        uut.imem_inst.memory[2] = 8'hC1;  // LDM R1, 9
+        uut.imem_inst.memory[3] = 8'h09;
+        uut.imem_inst.memory[4] = 8'h21;  //ADD R0,R1
+        uut.imem_inst.memory[5] = 8'h00;  // NOP
